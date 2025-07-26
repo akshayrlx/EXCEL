@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Supplier,Current Stock,Reorder Level,Units Sold,Last Purchase Date,Unit Cost,Stock In,Stock Out
+P0001,Wireless Mouse,Electronics,Supplier D,347,107,63,2024-01-07,135.07,937,874
+P0002,Wireless Mouse,Electronics,Supplier C,465,74,254,2023-03-18,147.63,801,658
+P0003,Wireless Mouse,Electronics,Supplier B,407,144,353,2024-03-18,185.54,377,183
+P0004,Wireless Mouse,Electronics,Supplier A,475,67,496,2025-01-10,401.11,584,405
+P0005,Bluetooth Speaker,Electronics,Supplier D,84,114,618,2023-08-09,77.09,18,14
+P0006,Bluetooth Speaker,Electronics,Supplier D,80,150,62,2024-07-01,95.48,270,0
+P0007,Bluetooth Speaker,Electronics,Supplier C,270,59,444,2023-12-26,422.9,260,227
+P0008,Bluetooth Speaker,Electronics,Supplier D,306,129,225,2024-11-18,280.87,365,248
+P0009,LED Monitor,Electronics,Supplier D,487,91,280,2024-11-24,153.79,786,320
+P0010,LED Monitor,Electronics,Supplier A,344,90,815,2024-07-01,395.63,798,579
+P0011,LED Monitor,Electronics,Supplier C,478,104,410,2025-03-29,454.39,446,130
+P0012,LED Monitor,Electronics,Supplier A,290,99,408,2024-05-16,224.15,570,221
+P0013,Smartphone Charger,Electronics,Supplier A,429,69,544,2024-10-22,290.9,882,192
+P0014,Smartphone Charger,Electronics,Supplier D,482,150,882,2023-02-12,19.89,709,112
+P0015,Smartphone Charger,Electronics,Supplier A,300,79,725,2023-07-31,296.51,797,341
+P0016,Smartphone Charger,Electronics,Supplier B,111,74,439,2024-01-10,177.64,30,29
+P0017,Noise Cancelling Headphones,Electronics,Supplier C,41,69,416,2023-05-14,261.91,231,231
+P0018,Noise Cancelling Headphones,Electronics,Supplier A,202,63,601,2024-03-17,125.23,0,0
+P0019,Noise Cancelling Headphones,Electronics,Supplier C,369,81,833,2025-06-01,215.49,804,493
+P0020,Noise Cancelling Headphones,Electronics,Supplier C,410,116,738,2023-08-12,457.51,386,155
+P0021,Office Chair,Furniture,Supplier C,69,78,428,2024-10-29,138.72,945,276
+P0022,Office Chair,Furniture,Supplier B,2,63,679,2023-03-01,120.07,344,330
+P0023,Office Chair,Furniture,Supplier D,270,70,401,2024-01-08,253.17,569,13
+P0024,Office Chair,Furniture,Supplier A,221,105,158,2025-03-06,338.07,381,163
+P0025,Bookshelf,Furniture,Supplier A,429,69,904,2025-02-07,188.88,358,18
+P0026,Bookshelf,Furniture,Supplier A,453,57,251,2024-03-14,50.99,365,291
+P0027,Bookshelf,Furniture,Supplier D,455,133,341,2025-01-02,7.83,694,212
+P0028,Bookshelf,Furniture,Supplier D,62,69,714,2024-06-12,104.42,895,291
+P0029,Dining Table,Furniture,Supplier A,489,74,56,2024-09-28,249.3,89,79
+P0030,Dining Table,Furniture,Supplier D,461,62,596,2023-02-04,392.5,25,12
+P0031,Dining Table,Furniture,Supplier C,416,123,556,2023-01-17,425.29,998,423
+P0032,Dining Table,Furniture,Supplier D,90,93,992,2023-06-05,225.23,968,289
+P0033,Sofa Set,Furniture,Supplier C,263,65,707,2023-02-04,290.74,384,237
+P0034,Sofa Set,Furniture,Supplier A,367,52,996,2024-03-16,114.68,220,24
+P0035,Sofa Set,Furniture,Supplier D,293,108,556,2024-10-22,79.02,988,420
+P0036,Sofa Set,Furniture,Supplier D,33,138,817,2023-04-17,324.46,154,41
+P0037,Bed Frame,Furniture,Supplier C,236,68,195,2024-03-14,319.27,538,315
+P0038,Bed Frame,Furniture,Supplier D,213,80,702,2023-03-04,212.31,108,6
+P0039,Bed Frame,Furniture,Supplier D,459,150,357,2025-04-28,282.08,969,778
+P0040,Bed Frame,Furniture,Supplier C,462,109,359,2024-04-26,289.08,101,58
+P0041,Stapler,Office Supplies,Supplier B,365,137,761,2024-02-01,296.15,357,123
+P0042,Stapler,Office Supplies,Supplier B,93,133,994,2024-10-28,486.06,608,574
+P0043,Stapler,Office Supplies,Supplier B,277,78,533,2023-01-29,6.09,232,174
+P0044,Stapler,Office Supplies,Supplier D,158,72,339,2024-10-11,169.02,93,31
+P0045,Notebook,Office Supplies,Supplier D,10,55,941,2025-03-13,386.7,900,732
+P0046,Notebook,Office Supplies,Supplier C,408,81,619,2025-02-19,290.15,264,115
+P0047,Notebook,Office Supplies,Supplier D,363,120,403,2023-05-07,88.33,106,48
+P0048,Notebook,Office Supplies,Supplier D,398,133,376,2023-08-24,196.03,451,12
+P0049,Desk Organizer,Office Supplies,Supplier D,83,136,644,2025-03-11,452.6,680,177
+P0050,Desk Organizer,Office Supplies,Supplier A,246,53,796,2025-03-03,370.83,942,528
+P0051,Desk Organizer,Office Supplies,Supplier D,103,103,416,2023-05-06,405.35,72,23
+P0052,Desk Organizer,Office Supplies,Supplier D,256,58,820,2025-05-20,459.04,816,275
+P0053,Ballpoint Pens,Office Supplies,Supplier B,43,102,774,2023-04-30,314.93,562,27
+P0054,Ballpoint Pens,Office Supplies,Supplier B,168,84,490,2024-12-17,374.35,512,253
+P0055,Ballpoint Pens,Office Supplies,Supplier B,30,146,805,2025-03-24,79.35,110,72
+P0056,Ballpoint Pens,Office Supplies,Supplier B,166,119,743,2024-11-30,175.19,228,148
+P0057,Paper Ream,Office Supplies,Supplier B,117,70,975,2024-02-18,269.95,438,73
+P0058,Paper Ream,Office Supplies,Supplier C,400,73,740,2023-10-22,91.05,342,43
+P0059,Paper Ream,Office Supplies,Supplier A,448,71,998,2024-09-21,83.07,311,213
+P0060,Paper Ream,Office Supplies,Supplier A,364,141,269,2023-06-27,302.22,900,894
+P0061,Men’s T-Shirt,Clothing,Supplier A,440,50,954,2023-06-02,16.41,858,673
+P0062,Men’s T-Shirt,Clothing,Supplier C,25,110,593,2024-08-20,17.45,59,34
+P0063,Men’s T-Shirt,Clothing,Supplier D,103,117,538,2023-09-25,220.6,77,74
+P0064,Men’s T-Shirt,Clothing,Supplier A,273,62,672,2025-03-10,390.7,782,367
+P0065,Women’s Jacket,Clothing,Supplier A,419,100,32,2024-12-10,447.23,309,79
+P0066,Women’s Jacket,Clothing,Supplier A,294,85,433,2024-10-05,476.17,700,311
+P0067,Women’s Jacket,Clothing,Supplier A,452,127,46,2023-10-27,183.65,941,560
+P0068,Women’s Jacket,Clothing,Supplier B,235,82,495,2025-04-14,424.7,141,112
+P0069,Kids’ Jeans,Clothing,Supplier A,213,144,446,2025-01-27,395.91,104,78
+P0070,Kids’ Jeans,Clothing,Supplier B,491,82,177,2024-12-13,445.01,639,182
+P0071,Kids’ Jeans,Clothing,Supplier C,100,106,743,2023-01-26,214.26,749,338
+P0072,Kids’ Jeans,Clothing,Supplier C,357,133,279,2024-01-03,410.2,594,80
+P0073,Sports Shorts,Clothing,Supplier C,423,138,757,2024-03-08,476.07,154,0
+P0074,Sports Shorts,Clothing,Supplier A,442,119,286,2023-03-14,128.29,881,810
+P0075,Sports Shorts,Clothing,Supplier D,42,65,570,2024-03-03,37.24,543,488
+P0076,Sports Shorts,Clothing,Supplier C,185,82,452,2023-05-20,369.77,67,29
+P0077,Formal Shirt,Clothing,Supplier A,30,125,977,2023-10-05,458.32,259,95
+P0078,Formal Shirt,Clothing,Supplier B,477,130,971,2024-05-29,242.99,842,246
+P0079,Formal Shirt,Clothing,Supplier C,172,80,750,2025-03-30,201.07,925,344
+P0080,Formal Shirt,Clothing,Supplier C,185,88,805,2023-07-20,303.82,146,55
+P0081,Organic Rice,Groceries,Supplier B,361,52,380,2025-04-07,470.26,81,46
+P0082,Organic Rice,Groceries,Supplier A,289,65,32,2024-12-06,417.11,276,116
+P0083,Organic Rice,Groceries,Supplier D,86,88,845,2023-02-21,413.33,414,5
+P0084,Organic Rice,Groceries,Supplier D,371,99,139,2023-04-26,290.74,133,69
+P0085,Whole Milk,Groceries,Supplier B,10,136,182,2025-06-04,452.49,740,139
+P0086,Whole Milk,Groceries,Supplier A,330,62,99,2024-08-14,408.56,792,520
+P0087,Whole Milk,Groceries,Supplier B,417,84,613,2023-08-05,293.33,956,476
+P0088,Whole Milk,Groceries,Supplier C,7,117,652,2023-06-25,309.7,435,274
+P0089,Brown Bread,Groceries,Supplier A,78,55,608,2024-05-02,54.54,991,920
+P0090,Brown Bread,Groceries,Supplier D,0,119,295,2023-12-03,203.5,72,64
+P0091,Brown Bread,Groceries,Supplier D,118,109,196,2023-05-05,192.44,528,121
+P0092,Brown Bread,Groceries,Supplier D,377,139,911,2024-09-26,24.76,537,165
+P0093,Olive Oil,Groceries,Supplier A,255,116,624,2023-08-26,49.38,118,41
+P0094,Olive Oil,Groceries,Supplier D,389,143,553,2024-07-23,399.62,391,45
+P0095,Olive Oil,Groceries,Supplier B,409,71,486,2024-03-15,262.26,141,134
+P0096,Olive Oil,Groceries,Supplier A,7,58,734,2024-10-04,60.74,230,146
+P0097,Free Range Eggs,Groceries,Supplier C,285,81,328,2024-09-13,126.99,927,376
+P0098,Free Range Eggs,Groceries,Supplier A,447,95,604,2025-06-22,131.24,506,248
+P0099,Free Range Eggs,Groceries,Supplier A,318,76,540,2025-01-21,477.53,972,486
+P0100,Free Range Eggs,Groceries,Supplier A,129,144,752,2025-01-02,93.29,955,86
